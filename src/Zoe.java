@@ -63,6 +63,15 @@ public class Zoe {
 //        System.out.println("No");
 //    }
 
+//M2Q14 n*(n+1)總和
+//     Scanner sc = new Scanner(System.in);
+//     int n = sc.nextInt();
+//
+//     int sum = 0;
+//     for (int i=0;i<=n;i++){
+//         sum += i*(i+1);
+//     }
+//        System.out.println(sum);
 
     }
 }
